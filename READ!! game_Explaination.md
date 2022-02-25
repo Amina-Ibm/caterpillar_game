@@ -7,3 +7,5 @@ Help the caterpillar eat enough food pills so it can start cocooning and start t
 The number of food pills the catterpillar has to eat depends entirely on you. Watch out for the mesmerizing butterfly at the end!
 
 Use the direction keys to get started.
+
+Note: Download and open with your preferred IDE and run main.py
